@@ -17,3 +17,4 @@
 # python manage.py startapp myapp
 # サーバーの起動
 # python manage.py runserver
+# myapp/apps.pyからnameとクラス名をコピーして、myproject/settings.pyのINSTALLED _APPにname.apps.クラス名として貼り付けることでアプリを認識させる
